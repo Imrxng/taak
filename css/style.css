@@ -100,7 +100,7 @@ figcaption span, figcaption p, footer p{
 }
 
 .Teaser{
-    background-image: url("../backgroundindex.webp");
+    background-image: url("../assets//backgroundindex.webp");
     background-size: cover;
     height: 23rem;
     grid-area: Teaser;
